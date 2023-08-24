@@ -137,7 +137,7 @@ const theme = createTheme({
   typography: {
     fontFamily: "'Metropolis', sans-serif",
     h1: {
-      fontWeight: 700,
+      fontWeight: 400,
       fontFamily: lazHeadlineFont,
       fontSize: "72px",
       lineHeight: "120%",
